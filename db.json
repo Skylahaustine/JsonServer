@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Austine",
+      "job": "Programming",
+      "sex": "Male",
+      "noOfChildren": 4,
+      "noOfDependentRelatives": 3
+    },
+    {
+      "id": 2,
+      "name": "Peter",
+      "job": "Flight Dispatcher",
+      "sex": "Female",
+      "noOfChildren": 3,
+      "noOfDependentRelatives": 1
+    }
+  ]
