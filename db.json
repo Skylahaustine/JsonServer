@@ -58,5 +58,33 @@
             "noOfChildren": 4,
             "noOfDependentRelatives": 2
         }
+    ],
+    "patients":[
+        {
+            "id":1,
+            "patientname":"Juliet",
+            "provider": "Karen Hospital",
+            "noOfVisits": 3,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+        },
+        {
+            "id":2,
+            "patientname":"Romeo",
+            "provider": "Karen Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        },
+        {
+            "id":3,
+            "patientname":"Juna",
+            "provider": "Karen Hospital",
+            "noOfVisits": 3,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "False"
+        }
+        
     ]
 }
