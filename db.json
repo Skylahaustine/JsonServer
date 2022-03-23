@@ -85,6 +85,56 @@
             "insuranceScheme": "UAP",
             "claimSuccesiful": "False"
         }
+        ,
+        {
+            "id":4,
+            "patientname":"Romeo",
+            "provider": "Matter Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        }
+        ,
+        {
+            "id":5,
+            "patientname":"Kimani",
+            "provider": "Karen Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        }
+        ,
+        {
+            "id":6,
+            "patientname":"Romeo",
+            "provider": "Karen Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        }
+        ,
+        {
+            "id":7,
+            "patientname":"Romeo",
+            "provider": "Karen Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        }
+        ,
+        {
+            "id":8,
+            "patientname":"Romeo",
+            "provider": "Karen Hospital",
+            "noOfVisits": 4,
+            "insuranceScheme": "UAP",
+            "claimSuccesiful": "true"
+
+        }
         
     ]
 }
